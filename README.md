@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Saumitra Singh 👋</h1>
+<p align="center">
+  Full-Stack Developer | Software Engineer | Tech Explorer | India 🇮🇳
+</p>
 
-<!--
-**Mitrammmm/Mitrammmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 LeetCode Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/mitraa?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+</p>
+
+> Replace `your_leetcode_username` in the link with your actual LeetCode handle.
+
+---
+
+### 👨‍💻 About Me
+
+- Passionate software developer with a strong foundation in **Data Structures**, **Algorithms**, and **Computer Science Fundamentals**
+- Experienced in developing **full-stack web applications** using the **MERN** stack, along with templating engines like **EJS**
+- Quick learner with a proven track record of adapting to diverse project domains and contributing effectively to team-based and solo projects
+- Open to collaborative opportunities, internships, and freelance work
+
+---
+
+### 💼 Projects
+
+🌾 **KrishiMart**  
+_A farmer-first e-commerce solution connecting rural producers directly with consumers._  
+Tech: `Node.js`, `MongoDB`, `Express.js`, `EJS`  
+→ Designed for accessibility, regional language support, and smooth order management.
+
+🧑‍💻 **HireNHired** *(Project ID 1629)*  
+_A multilingual freelancing platform designed for the Indian market._  
+→ Supports a wide range of project categories like web, crafts, and art, with regional language accessibility and a user-friendly interface.
+
+🛰️ **Satellite AQI Downscaling**  
+_AI/ML-based solution to convert satellite-based air quality data to high-resolution ground-level insights._  
+→ Built as part of a hackathon, applying machine learning for environmental problem-solving.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **Languages:** `C++`, `JavaScript`, `HTML`, `CSS`, `SQL`
+- **Frontend:** `React.js`, `EJS`, `Tailwind CSS`, `Bootstrap`
+- **Backend:** `Node.js`, `Express.js`
+- **Database:** `MongoDB`, `MySQL`
+- **Dev Tools:** `Git`, `GitHub`, `Postman`, `VS Code`
+
+---
+
+### 🚀 Currently Exploring
+
+- Building scalable, user-centric web applications
+- Deepening frontend UI/UX development expertise
+- Strengthening systems-level understanding (DBMS, OS, CN)
+- Exploring opportunities in open-source and remote freelance work
+
+---
+
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com) *(add your profile link here)*
+- 🌐 [Portfolio Website](https://your-portfolio.com) *(optional)*
+- 📧 Email: *your-email@example.com*
+
+---
+
+> "Code with purpose. Learn with curiosity. Build with impact."
