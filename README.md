@@ -11,10 +11,6 @@
   <img src="https://leetcard.jacoblin.cool/mitraa?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </p>
 
-> Replace `your_leetcode_username` in the link with your actual LeetCode handle.
-
----
-
 ### 👨‍💻 About Me
 
 - Passionate software developer with a strong foundation in **Data Structures**, **Algorithms**, and **Computer Science Fundamentals**
@@ -62,9 +58,8 @@ _AI/ML-based solution to convert satellite-based air quality data to high-resolu
 
 ### 📫 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com) *(add your profile link here)*
-- 🌐 [Portfolio Website](https://your-portfolio.com) *(optional)*
-- 📧 Email: *your-email@example.com*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saumitrasingh10/)
+- 📧 Email: *mitrasinghimp@gmail.com*
 
 ---
 
