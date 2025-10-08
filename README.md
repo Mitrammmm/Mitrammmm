@@ -20,6 +20,13 @@
 
 ---
 
+### 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/saumitrasingh10/)
+- 📧 Email: *mitrasinghimp@gmail.com*
+
+---
+
 ### 💼 Projects
 
 🌾 **KrishiMart**  
@@ -39,11 +46,13 @@ _AI/ML-based solution to convert satellite-based air quality data to high-resolu
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages:** `C++`, `JavaScript`, `HTML`, `CSS`, `SQL`
-- **Frontend:** `React.js`, `EJS`, `Tailwind CSS`, `Bootstrap`
-- **Backend:** `Node.js`, `Express.js`
-- **Database:** `MongoDB`, `MySQL`
-- **Dev Tools:** `Git`, `GitHub`, `Postman`, `VS Code`
+- **Programming Languages:** `C++`, `Java`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `SQL`
+- **Frameworks & Libraries:** `Next.js`, `React.js`, `Node.js`, `Express.js`, `Tailwind CSS`, `Bootstrap`
+- **Databases & Messaging:** `MongoDB`, `MySQL`, `PostgreSQL`, `Redis`, `Kafka`
+- **Dev Tools & Platforms:** `Git`, `GitHub`, `Docker`, `Postman`, `Cloudinary`, `Stripe API`, `NodeMailer`, `REST APIs`, `Socket.IO`
+- **Foundations:** `Data Structures & Algorithms`, `OOP`, `Operating Systems`, `DBMS`, `System Design`, `SDLC`
+- **Soft Skills:** `Analytical Thinking`, `Clear Communication`, `Efficient Task Management`
+
 
 ---
 
@@ -56,11 +65,5 @@ _AI/ML-based solution to convert satellite-based air quality data to high-resolu
 
 ---
 
-### 📫 Let's Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/saumitrasingh10/)
-- 📧 Email: *mitrasinghimp@gmail.com*
-
----
 
 > "Code with purpose. Learn with curiosity. Build with impact."
