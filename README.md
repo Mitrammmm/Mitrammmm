@@ -27,6 +27,17 @@
 
 ---
 
+### 🛠️ Tech Stack & Tools
+
+- **Programming Languages:** `C++`, `Java`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `SQL`
+- **Frameworks & Libraries:** `Next.js`, `React.js`, `Node.js`, `Express.js`, `Tailwind CSS`, `Bootstrap`
+- **Databases & Messaging:** `MongoDB`, `MySQL`, `PostgreSQL`, `Redis`, `Kafka`
+- **Dev Tools & Platforms:** `Git`, `GitHub`, `Docker`, `Postman`, `Cloudinary`, `Stripe API`, `NodeMailer`, `REST APIs`, `Socket.IO`
+- **Foundations:** `Data Structures & Algorithms`, `OOP`, `Operating Systems`, `DBMS`, `System Design`, `SDLC`
+- **Soft Skills:** `Analytical Thinking`, `Clear Communication`, `Efficient Task Management`
+
+---
+
 ### 💼 Projects
 
 🌾 **KrishiMart**  
@@ -41,18 +52,6 @@ _A multilingual freelancing platform designed for the Indian market._
 🛰️ **Satellite AQI Downscaling**  
 _AI/ML-based solution to convert satellite-based air quality data to high-resolution ground-level insights._  
 → Built as part of a hackathon, applying machine learning for environmental problem-solving.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-- **Programming Languages:** `C++`, `Java`, `TypeScript`, `JavaScript`, `HTML5`, `CSS3`, `SQL`
-- **Frameworks & Libraries:** `Next.js`, `React.js`, `Node.js`, `Express.js`, `Tailwind CSS`, `Bootstrap`
-- **Databases & Messaging:** `MongoDB`, `MySQL`, `PostgreSQL`, `Redis`, `Kafka`
-- **Dev Tools & Platforms:** `Git`, `GitHub`, `Docker`, `Postman`, `Cloudinary`, `Stripe API`, `NodeMailer`, `REST APIs`, `Socket.IO`
-- **Foundations:** `Data Structures & Algorithms`, `OOP`, `Operating Systems`, `DBMS`, `System Design`, `SDLC`
-- **Soft Skills:** `Analytical Thinking`, `Clear Communication`, `Efficient Task Management`
-
 
 ---
 
